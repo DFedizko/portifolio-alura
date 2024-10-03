@@ -14,7 +14,6 @@ body{
 .cabecalho {
     padding: 2% 0 0 15%;
     color: #F6F6F6;
-    border: solid white 1px;
 }
 
 .cabecalho__menu {
@@ -98,13 +97,19 @@ body{
 }
 
 .rodape {
+    display: flex;
+    justify-content: space-around;
     padding: 24px;
     background-color: #22D4FD;
     color: #000000;
-    text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     font-weight: normal;
+}
+
+.rodape__texto {
+    display: flex;
+    gap: 16px;
 }
 
 

@@ -4,7 +4,7 @@ Portifólio criado apenas com html e css , para praticar minhas habilidades em f
 
 ## Como Acessar
 
-Para acessar este portifólio entre neste [link](portifolio-alura-brown-five.vercel.app). 
+Para acessar este portifólio entre neste [link](https://portifolio-alura-brown-five.vercel.app/). 
 
 Ou realizando um clone deste repositório e acessando o index.html:
 ```

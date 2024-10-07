@@ -143,7 +143,7 @@ body {
     }
 
     .apresentacao__imagem-pedro {
-        width: 60%;
+        height: auto;
     }
 
     .rodape {
@@ -151,5 +151,6 @@ body {
         flex-direction: column;
         gap: 1rem;
         margin-top: 3%;
+        font-size: 1.3rem;
     }
 }
